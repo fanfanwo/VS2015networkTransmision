@@ -1,0 +1,8 @@
+﻿  UDPpictureTrans.cpp
+e:\vs2015code\udppicturetranserver\udppicturetranserver\udppicturetrans.cpp(94): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+e:\vs2015code\udppicturetranserver\udppicturetranserver\udppicturetrans.cpp(142): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+e:\vs2015code\udppicturetranserver\udppicturetranserver\udppicturetrans.cpp(172): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+e:\vs2015code\udppicturetranserver\udppicturetranserver\udppicturetrans.cpp(276): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\vs2015code\udppicturetranserver\udppicturetranserver\udppicturetrans.cpp(277): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  UDPpictureTranServer.vcxproj -> E:\VS2015Code\UDPpictureTranServer\x64\Debug\UDPpictureTranServer.exe
+  UDPpictureTranServer.vcxproj -> E:\VS2015Code\UDPpictureTranServer\x64\Debug\UDPpictureTranServer.pdb (Partial PDB)
